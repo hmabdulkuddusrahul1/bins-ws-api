@@ -4,17 +4,17 @@
   "description": "An Unofficial API to get BIN Details from bins.su",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArnabXD/bins-ws-api"
+    "url": "https://github.com/hmabdulkuddusrahul1/bins-ws-api"
   },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "@ArnabXD",
+  "author": "@hmabdulkuddusrahul1",
   "license": "ISC",
   "dependencies": {
-    "@arnabxd/bin-lookup": "^1.3.0",
+    "@hmabdulkuddusrahul1/bin-lookup": "^1.3.0",
     "cors": "^2.8.5",
     "express": "^4.18.1"
   },
